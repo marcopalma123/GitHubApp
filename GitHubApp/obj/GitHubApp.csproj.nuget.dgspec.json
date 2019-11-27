@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco.caçoila\\Source\\Repos\\GitHubApp\\GitHubApp\\GitHubApp.csproj": {}
+    "c:\\Users\\marco.caçoila\\Desktop\\qwd\\ddd\\GitHubApp\\GitHubApp\\GitHubApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco.caçoila\\Source\\Repos\\GitHubApp\\GitHubApp\\GitHubApp.csproj": {
+    "c:\\Users\\marco.caçoila\\Desktop\\qwd\\ddd\\GitHubApp\\GitHubApp\\GitHubApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco.caçoila\\Source\\Repos\\GitHubApp\\GitHubApp\\GitHubApp.csproj",
+        "projectUniqueName": "c:\\Users\\marco.caçoila\\Desktop\\qwd\\ddd\\GitHubApp\\GitHubApp\\GitHubApp.csproj",
         "projectName": "GitHubApp",
-        "projectPath": "C:\\Users\\marco.caçoila\\Source\\Repos\\GitHubApp\\GitHubApp\\GitHubApp.csproj",
+        "projectPath": "c:\\Users\\marco.caçoila\\Desktop\\qwd\\ddd\\GitHubApp\\GitHubApp\\GitHubApp.csproj",
         "packagesPath": "C:\\Users\\marco.caçoila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco.caçoila\\Source\\Repos\\GitHubApp\\GitHubApp\\obj\\",
+        "outputPath": "c:\\Users\\marco.caçoila\\Desktop\\qwd\\ddd\\GitHubApp\\GitHubApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
