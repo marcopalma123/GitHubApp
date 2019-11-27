@@ -13,7 +13,7 @@ namespace GitHubApp.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "2Freezfsdfing me", "33Bracinsdfsdfg me", "44Chillsdfsdfy me", "Cool me", "Mild me", "Warm me", "Balmy me", "Hot me", "Sweltering", "Scorching"
+            "2Freezfsdfing me", "33Bracinsdfsdfg me", "44Chillsergdfsdfy me", "Cool me", "Mild me", "Warm ergme", "Balmy me", "Hot me", "Swelergrgtering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
